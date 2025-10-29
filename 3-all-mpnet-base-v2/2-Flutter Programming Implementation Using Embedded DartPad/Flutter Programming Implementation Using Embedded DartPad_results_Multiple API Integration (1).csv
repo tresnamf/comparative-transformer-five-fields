@@ -1,0 +1,11 @@
+Paper Id,Title,Abstract,Year,Authors,Citation Count,Discipline(s),Document Type,Journal Name,Journal Volume,Journal Pages,Conference Name,Publication Type,Venue,Publication Date,Is Open Access,Open Access PDF URL,PDF Available,URL,DOI,Source,Extracted Keyword,Similarity Score,Relevance Category,Label Actual,,P@10,Pred Gain,Pred Actual,DCG,IDCG,DCG,IDCG,NDCG
+35095284,Performance And Integration Of Smartphone Wireless Ecg Monitoring Into The Enterprise Electronic Health Record: First Clinical Experience,"Patient initiated, remote cardiac monitoring has proved to be a significant advance in the diagnosis and management of arrhythmias. Further improvements in ease of use and access to results will further improve health outcomes and cost-effectiveness. Here we describe a proof-of-concept evaluation to assess the feasibility of successfully implementing a cloud-based management system using KardiaPro (KP) for remote electrocardiogram (ECG) monitoring to interface into EPIC, an enterprise electronic health record (EHR) system.",2022,"Cho GW, Almeida SO, Gang ES, Elad Y, Duncan R, Budoff MJ, Karlsberg RP",4,N/A,Journal Article,Clinical medicine insights. Case reports,15,11795476211069194,-,Journal Article,-,1/1/2022,Yes,https://pmc.ncbi.nlm.nih.gov/articles/PMC8796093/pdf,Yes,https://pubmed.ncbi.nlm.nih.gov/35095284,10.1177/11795476211069194,PubMed,"Remote monitoring, atrial fibrillation, wearables, ventricular tachycardia, electrocardiogram, AliveCor, KardiaPro, KardiaMobile, smartphone EKG, Kardia",0.126265772,Low relevance,Low relevance,1,TRUE,0,0,0,0,0,0,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,0,,,0.012626577,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,
